@@ -1,0 +1,9 @@
+Multiagent Q1 and Q2
+https://github.com/lnishan/Pacman-2/blob/master/multiAgents.py
+
+Multiagent Q3 and Q4
+https://github.com/opalkale/pacman-multiagent/blob/master/multiAgents.py
+
+ΕΡΩΤΗΣΗ 1
+https://davideliu.com/2020/02/13/playing-pacman-with-multi-agents-adversarial-search/
+
